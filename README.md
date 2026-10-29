@@ -22,6 +22,10 @@ A red-team system prompt (`SYSTEM.md`) for Kimi Code — jailbreak / armor-pierc
 
 将项目中的SYSTEM.md替换至`~/.kimi-code/SYSTEM.md`，替换前请备份原文件,如果目录下没有这个文件是正常的，直接放在这里就行了。
 
+
 ## 免责声明
 
 本项目仅用于**授权环境**下的 AI 安全研究、红队评估与提示工程教学。请勿将其用于任何违反服务条款或法律法规的实际操作。使用者自行承担一切后果。
+
+创建了个交流群，欢迎来交流。
+<img width="1284" height="2283" alt="70011424b54b3e90b22ce6775c976ce6" src="https://github.com/user-attachments/assets/eee41b5d-d0de-45c5-82fb-a86071dc9297" />
