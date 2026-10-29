@@ -8,11 +8,6 @@ A red-team system prompt (`SYSTEM.md`) for Kimi Code — jailbreak / armor-pierc
 
 本仓库是一段针对 Kimi Code CLI 的自定义系统提示词（`SYSTEM.md`），用于 AI 安全研究与红队评估。使 Agent 在渗透测试等敏感场景中不触发拒绝行为。
 
-提示词中的两个角色名为化名，可自行替换：
-
-- **VANTA** — Agent 人格
-- **WREN** — 使用者
-
 ## 特色
 
 完全未修改原系统提示词，只做了增加，最大幅度利用Kimicode本身的工程优势。
